@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кирилл Хайленко](https://up.htmlacademy.ru/htmlcss/38/user/2314617).
-* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
+* Наставник: [Ольга Тюлихова](https://htmlacademy.ru/profile/id523263).
 
 ---
 
